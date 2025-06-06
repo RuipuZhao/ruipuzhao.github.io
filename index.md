@@ -22,8 +22,8 @@ Ruipu Zhao (赵睿朴) received his B.S. degree from Tianjin University, Tianjin
 
 {% include_relative _includes/publications.md %}
 
-{% raw %}
+{% comment %}
 {% include_relative _includes/services.md %}
-{% endraw %}
+{% endcomment %}
 
 {% include_relative _includes/correspondence.md %}
