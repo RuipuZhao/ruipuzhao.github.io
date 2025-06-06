@@ -1,7 +1,7 @@
 main:
 
   - title: "Socialized Coevolution: Advancing a Better World through Cross-Task Collaboration"
-    authors: <strong>Xinjie Yao</strong>, Yu Wang, Pengfei Zhu*, Wanyu Lin, Ruipu Zhao,  Zhoupeng Guo, Weihao Li, Qinghua Hu.
+    authors: Xinjie Yao, Yu Wang, Pengfei Zhu*, Wanyu Lin, <strong>Ruipu Zhao</strong>,  Zhoupeng Guo, Weihao Li, Qinghua Hu.
     conference_short: ICML
     conference: International Conference on Machine Learning, 2025
     pdf: https://scholar.google.com/citations?hl=zh-CN&user=tScuhLkAAAAJ
