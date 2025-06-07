@@ -12,6 +12,6 @@ main:
     authors: Xinjie Yao, Yingxue Wang, Yu Wang*, Pengfei Zhu, <strong>Ruipu Zhao</strong>, Weihao Li, Shenglei Pei, Wanyu Lin.
     conference_short: ESWA
     conference: Expert Systems With Applications, 2025
-    pdf: Coming soon
-    code: Coming soon
+    pdf:
+    code:
     image: ./assets/img/CMCIL_ESWA.jpg 
