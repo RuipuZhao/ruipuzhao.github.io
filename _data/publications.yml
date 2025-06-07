@@ -1,9 +1,17 @@
 main:
 
   - title: "Socialized Coevolution: Advancing a Better World through Cross-Task Collaboration"
-    authors: Xinjie Yao, Yu Wang, Pengfei Zhu*, Wanyu Lin, <strong>Ruipu Zhao</strong>,  Zhoupeng Guo, Weihao Li, Qinghua Hu.
+    authors: Xinjie Yao, Yu Wang, Pengfei Zhu*, Wanyu Lin, <strong>Ruipu Zhao</strong>, Zhoupeng Guo, Weihao Li, Qinghua Hu.
     conference_short: ICML
     conference: International Conference on Machine Learning, 2025
     pdf: https://scholar.google.com/citations?hl=zh-CN&user=tScuhLkAAAAJ
     code: https://github.com/yxjdarren/SC
     image: ./assets/img/SC_ICML.jpg
+
+  - title: "Visible-Thermal Cross-Modality Class-Incremental Learning"
+    authors: Xinjie Yao, Yingxue Wang, Yu Wang*, Pengfei Zhu, <strong>Ruipu Zhao</strong>, Weihao Li, Shenglei Pei, Wanyu Lin.
+    conference_short: ESWA
+    conference: Expert Systems With Applications, 2025
+    pdf: Coming soon
+    code: Coming soon
+    image: ./assets/img/CMCIL_ESWA.jpg 

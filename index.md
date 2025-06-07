@@ -14,6 +14,7 @@ Ruipu Zhao (赵睿朴) received his B.S. degree from Tianjin University, Tianjin
 
 ## News
 
+- **[2025-06]** "Visible-Thermal Cross-Modality Class-Incremental Learning" has been accepted by Expert Systems With Applications (ESWA, CCF-C, 中科院一区Top期刊, JCR Q1, IF=7.55).
 - **[2025-05]** “Socialized Coevolution: Advancing a Better World through Cross-Task Collaboration” has been accepted by International Conference on Machine Learning (ICML, CCF-A).
 
 ## Honors
